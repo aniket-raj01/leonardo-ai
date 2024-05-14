@@ -448,7 +448,7 @@ export const combinedStylesWithModels = [
     label: "Cinematic",
     value: "CINEMATIC",
     modelId: "aa77f04e-3eec-4034-9c07-d0f619684628",
-    modelName: "Leonardo Kino XL",
+    modelName: "Leonardo Kino XL ",
     modelDescription:
       "A model with a strong focus on cinematic outputs. Excels at wider aspect ratios, and does not need a negative prompt.",
   },
