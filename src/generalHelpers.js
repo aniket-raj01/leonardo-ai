@@ -511,8 +511,8 @@ export const combinedStylesWithModels = [
   {
     label: "3D Render",
     value: "RENDER_3D",
-    modelId: "2d18c0af-374e-4391-9ca2-639f59837c85",
-    modelName: "Magic Items",
+    modelId: "d69c8273-6b17-4a30-a13e-d6637ae1c644",
+    modelName: "3D Animation Style",
     modelDescription:
       "Create a wide range of magical items like weapons, shields, boots, books. Very versatile.",
   },
